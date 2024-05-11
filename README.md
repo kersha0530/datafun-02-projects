@@ -1,2 +1,2 @@
-# datafun-02-projects
+# datafun-02-projectsetup
 project repository folder 
