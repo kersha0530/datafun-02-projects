@@ -1,2 +1,2 @@
 # datafun-02-projectsetup
-project repository folder 
+''' This module provides functions for creating a series of project folders. '''
